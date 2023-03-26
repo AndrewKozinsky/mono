@@ -1,0 +1,9 @@
+{
+  "name": "@mono/api",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nest build",
+    "dev": "nest start --watch",
+    "prod": "node dist/main"
+  }
+}
